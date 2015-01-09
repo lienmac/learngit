@@ -6,3 +6,4 @@ Git is free software.3
 Git is free software.4
 Git is free software.5
 Git is free software.6
+Git is free software.7
